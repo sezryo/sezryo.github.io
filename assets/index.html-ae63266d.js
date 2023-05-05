@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Mamonaku Yotsuya","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683286080000,"contributors":[{"name":"Sezriv","email":"sezrienne@proton.me","commits":1}]},"filePathRelative":"README.md"}');export{e as data};

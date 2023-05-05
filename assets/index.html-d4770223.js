@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as o,R as e,t as n}from"./framework-5866ffd3.js";const s={},c=e("h1",{id:"mamonaku-yotsuya",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#mamonaku-yotsuya","aria-hidden":"true"},"#"),n(" Mamonaku Yotsuya")],-1),r=[c];function _(d,i){return t(),o("div",null,r)}const m=a(s,[["render",_],["__file","index.html.vue"]]);export{m as default};
