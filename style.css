@@ -70,6 +70,52 @@
   /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* ----- Noto Sans CJK: Traditional Chinese ----- */
+@font-face {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/noto-sans-tc-regular.woff2') format('woff2');
+}
+
+/* ----- Noto Sans CJK: Japanese ----- */
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/noto-sans-jp-regular.woff2') format('woff2');
+}
+
+/* ----- Noto Sans CJK: Korean ----- */
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/noto-sans-kr-regular.woff2') format('woff2');
+}
+
+/* ----- Noto Sans: Mongolian ----- */
+@font-face {
+  font-family: 'Noto Sans Mongolian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/noto-sans-mongolian-regular.woff2') format('woff2');
+}
+
+/* ----- Noto Sans: Hebrew ----- */
+@font-face {
+  font-family: 'Noto Sans Hebrew';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/noto-sans-hebrew-regular.woff2') format('woff2');
+}
+
+
 :root {
   --content-gap: 15px;
   --radius: 5px;
@@ -387,6 +433,13 @@ ninja-keys::part(ninja-action) {
 }
 
 body {
+  font-family: "Inria Sans",
+               "Noto Sans TC",
+               "Noto Sans JP",
+               "Noto Sans KR",
+               "Noto Sans Hebrew",
+               "Noto Sans Mongolian",
+               sans-serif;
   hyphens: auto;
 }
 

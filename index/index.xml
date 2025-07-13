@@ -2,18 +2,34 @@
 <?xml-stylesheet type="text/xsl" href="/default.xsl"?>
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="true" base-url="/">
   <fr:frontmatter>
-    <fr:authors />
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/sezryo/" title="Yiq-wê Mân (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Yiq-wê Mân (Yiwei Meng)</fr:link>
+      </fr:author>
+    </fr:authors>
     <fr:uri>https://sez.moe/index/</fr:uri>
     <fr:display-uri>index</fr:display-uri>
     <fr:route>/index/</fr:route>
-    <fr:title text="Hello, World!">Hello, World!</fr:title>
+    <fr:title text="ヨよ木 (Yoyogi)">ヨよ木 (Yoyogi)</fr:title>
+    <fr:meta name="orcid">0009-0008-0934-6821</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>Welcome to your first tree! This tree is the root of your forest.</html:p>
-    <html:ul><html:li><fr:link href="https://www.forester-notes.org/jms-007D/" type="external">Build and view your forest for the first time</fr:link></html:li>
-  <html:li><fr:link href="https://www.forester-notes.org/jms-007N/" type="external">Overview of the Forester markup language</fr:link></html:li>
-  <html:li><fr:link href="https://www.forester-notes.org/jms-007H/" type="external">Creating new trees</fr:link></html:li>
-  <html:li><fr:link href="https://www.forester-notes.org/jms-007K/" type="external">Creating your personal biographical tree</fr:link></html:li></html:ul>
+    <html:p>I am Yiq-wê Mân. I am also referred to as Yiwei or Yvette. This is my personal website, realised as a <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">forester space</fr:link>. More detailed information of me can be found in my <fr:link href="/sezryo/" title="Yiq-wê Mân (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">bio</fr:link>.</html:p>
+    <html:p>This website primarily serves as a research note of my current studies. Additionally, my random thoughts are also posted here, making part of this website to be a casual blog.</html:p>
+    <html:p>You may navigate this whole forester via <html:code>ctrl+K</html:code>.</html:p>
+    <fr:tree show-metadata="false">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:uri>https://sez.moe/0001/</fr:uri>
+        <fr:display-uri>0001</fr:display-uri>
+        <fr:route>/0001/</fr:route>
+        <fr:title text="Name of this website">Name of this website</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>The name ヨよ木 comes as a homonym of 代々木, a vibrant area in Tokyo. ヨ mimics the existence quantifier, よ is identified as the Yoneda functor, and 木 marks a place for inhabitance.</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+    <html:p>You may find contents in the following <fr:link href="https://www.forester-notes.org/tfmt-000R/index.xml" type="external">trees</fr:link>: <fr:link href="/0002/" title="Notes" uri="https://sez.moe/0002/" display-uri="0002" type="local">Notes</fr:link>, <fr:link href="/0003/" title="Articles" uri="https://sez.moe/0003/" display-uri="0003" type="local">Articles</fr:link>, <fr:link href="/0004/" title="Thoughts" uri="https://sez.moe/0004/" display-uri="0004" type="local">Thoughts</fr:link>, and my <fr:link href="/sezryo/" title="Yiq-wê Mân (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Bio</fr:link>.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -42,7 +58,59 @@
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://sez.moe/0003/</fr:uri>
+            <fr:display-uri>0003</fr:display-uri>
+            <fr:route>/0003/</fr:route>
+            <fr:title text="Articles">Articles</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://sez.moe/0002/</fr:uri>
+            <fr:display-uri>0002</fr:display-uri>
+            <fr:route>/0002/</fr:route>
+            <fr:title text="Notes">Notes</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://sez.moe/0004/</fr:uri>
+            <fr:display-uri>0004</fr:display-uri>
+            <fr:route>/0004/</fr:route>
+            <fr:title text="Thoughts">Thoughts</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://sez.moe/sezryo/</fr:uri>
+            <fr:display-uri>sezryo</fr:display-uri>
+            <fr:route>/sezryo/</fr:route>
+            <fr:title text="Yiq-wê Mân (Yiwei Meng)">Yiq-wê Mân (Yiwei Meng)</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="external">https://sez.moe/</fr:meta>
+            <fr:meta name="institution">Imperial College London</fr:meta>
+            <fr:meta name="orcid">0009-0008-0934-6821</fr:meta>
+            <fr:meta name="position">they/them</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I am a <html:em>postgrauduate student studying Mathematics and Finance</html:em> in Imperial College. I am a <html:em>Quantitative Research Intern</html:em> in J.P. Morgan. I am also an <html:em>alumni</html:em> of University of Cambridge as a <html:em><fr:link href="https://archive.thetab.com/uk/cambridge/2017/02/16/what-actually-date-mathmo-89152" type="external">Mathmo</fr:link></html:em> from 2022 to 2025.</html:p>
+            <html:p>My primary research interest focuses on stochastic analysis and its applications. In particular, I'm working on geometric aspects of stochastic differential equations defined on Banach-valued r.v.s., in which financial implications arise.</html:p>
+            <html:p>I'm also interested in formalising functional analytical concepts in the shed of category theory, this attempt can be found in my <fr:link href="/cat-ana-0001/" title="Categorical Functional Analysis" uri="https://sez.moe/cat-ana-0001/" display-uri="cat-ana-0001" type="local">note</fr:link> here.</html:p>
+            <html:p>Unprofessionally, I'm a linguistic enthusiast, and you may find my flaky thoughts here.</html:p>
+            <html:p>You may access my <fr:link href="/0005/" title="Curriculum Vitæ" uri="https://sez.moe/0005/" display-uri="0005" type="local">Curriculum Vitæ</fr:link> here. For contacts otherwise, please send email to <html:code>echo golf oscar at *this domain*</html:code>. Additionally, I maintain multiple social platform accounts under the same name as the <fr:link href="https://www.forester-notes.org/0073/index.xml" type="external">tree address</fr:link> of this page.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
