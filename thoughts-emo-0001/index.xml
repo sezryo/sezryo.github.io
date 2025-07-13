@@ -1,36 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/default.xsl"?>
-<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="true" base-url="/">
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
     <fr:authors>
       <fr:author>
         <fr:link href="/sezryo/" title="Yiq-wê Mân (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Yiq-wê Mân (Yiwei Meng)</fr:link>
       </fr:author>
     </fr:authors>
-    <fr:uri>https://sez.moe/index/</fr:uri>
-    <fr:display-uri>index</fr:display-uri>
-    <fr:route>/index/</fr:route>
-    <fr:title text="ヨよ木 (Yoyogi)">ヨよ木 (Yoyogi)</fr:title>
-    <fr:meta name="orcid">0009-0008-0934-6821</fr:meta>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>7</fr:month>
+      <fr:day>13</fr:day>
+    </fr:date>
+    <fr:uri>https://sez.moe/thoughts-emo-0001/</fr:uri>
+    <fr:display-uri>thoughts-emo-0001</fr:display-uri>
+    <fr:route>/thoughts-emo-0001/</fr:route>
+    <fr:title text="What Cambridge gave me...">What Cambridge gave me...</fr:title>
   </fr:frontmatter>
-  <fr:mainmatter>
-    <html:p>I am Yiq-wê Mân. I am also referred to as Yiwei or Yvette. This is my personal website, realised as a <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">forester space</fr:link>. More detailed information of me can be found in my <fr:link href="/sezryo/" title="Yiq-wê Mân (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">bio</fr:link>.</html:p>
-    <html:p>This website primarily serves as a research note of my current studies. Additionally, my random thoughts are also posted here, making part of this website to be a casual blog.</html:p>
-    <html:p>You may navigate this whole forester via <html:code>ctrl+K</html:code>.</html:p>
-    <fr:tree show-metadata="false">
-      <fr:frontmatter>
-        <fr:authors />
-        <fr:uri>https://sez.moe/0001/</fr:uri>
-        <fr:display-uri>0001</fr:display-uri>
-        <fr:route>/0001/</fr:route>
-        <fr:title text="Name of this website">Name of this website</fr:title>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>The name ヨよ木 comes as a homonym of 代々木, a vibrant area in Tokyo. ヨ mimics the existence quantifier, よ is identified as the Yoneda functor, and 木 marks a place for inhabitance.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <html:p>You may find contents in the following <fr:link href="https://www.forester-notes.org/tfmt-000R/index.xml" type="external">trees</fr:link>: <fr:link href="/0002/" title="Notes" uri="https://sez.moe/0002/" display-uri="0002" type="local">Notes</fr:link>, <fr:link href="/0003/" title="Articles" uri="https://sez.moe/0003/" display-uri="0003" type="local">Articles</fr:link>, <fr:link href="/0004/" title="Thoughts" uri="https://sez.moe/0004/" display-uri="0004" type="local">Thoughts</fr:link>, and my <fr:link href="/sezryo/" title="Yiq-wê Mân (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Bio</fr:link>.</html:p>
-  </fr:mainmatter>
+  <fr:mainmatter />
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
@@ -51,44 +38,7 @@
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
-    </fr:tree>
-    <fr:tree show-metadata="false" hidden-when-empty="true">
-      <fr:frontmatter>
-        <fr:authors />
-        <fr:title text="Related">Related</fr:title>
-      </fr:frontmatter>
       <fr:mainmatter>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors />
-            <fr:uri>https://sez.moe/0003/</fr:uri>
-            <fr:display-uri>0003</fr:display-uri>
-            <fr:route>/0003/</fr:route>
-            <fr:title text="Articles">Articles</fr:title>
-          </fr:frontmatter>
-          <fr:mainmatter />
-        </fr:tree>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors />
-            <fr:uri>https://sez.moe/0002/</fr:uri>
-            <fr:display-uri>0002</fr:display-uri>
-            <fr:route>/0002/</fr:route>
-            <fr:title text="Notes">Notes</fr:title>
-          </fr:frontmatter>
-          <fr:mainmatter />
-        </fr:tree>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors />
-            <fr:uri>https://sez.moe/0004/</fr:uri>
-            <fr:display-uri>0004</fr:display-uri>
-            <fr:route>/0004/</fr:route>
-            <fr:title text="Thoughts">Thoughts</fr:title>
-          </fr:frontmatter>
-          <fr:mainmatter />
-        </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
             <fr:authors />
@@ -112,6 +62,13 @@
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
