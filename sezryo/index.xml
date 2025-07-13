@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://sez.moe/sezryo/</fr:uri>
+    <fr:display-uri>sezryo</fr:display-uri>
+    <fr:route>/sezryo/</fr:route>
+    <fr:title text="Yiq-wê Mân">Yiq-wê Mân</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:meta name="external">https://sez.moe/</fr:meta>
+    <fr:meta name="institution">Imperial College London</fr:meta>
+    <fr:meta name="orcid">0009-0008-0934-6821</fr:meta>
+    <fr:meta name="pronouns">they/them</fr:meta>
+    <fr:meta name="other_names">Yiwei Meng, Yvette, Yvelines</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>I am a postgrauduate student studying Mathematics and Finance in Imperial College. I am an alumni of University of Cambridge as a Mathmo from 2022 to 2025.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
