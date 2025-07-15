@@ -31,7 +31,64 @@
         <fr:authors />
         <fr:title text="Context">Context</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:contributor>
+                <fr:link href="/sezryo/" title="Yiq-wê Mordžele (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Yiq-wê Mordžele (Yiwei Meng)</fr:link>
+              </fr:contributor>
+            </fr:authors>
+            <fr:uri>https://sez.moe/0002/</fr:uri>
+            <fr:display-uri>0002</fr:display-uri>
+            <fr:route>/0002/</fr:route>
+            <fr:title text="Notes">Notes</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Here assembles the collection of my typed notes. Most of them are partial and incomplete, unless otherwise noted.</html:p>
+            <html:p>These notes mainly serves for my own researching and studying purposes. Nevertheless, I'm more than happy to see if any of them inspires anyone.</html:p>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://sez.moe/cat-fun-0001/</fr:uri>
+                <fr:display-uri>cat-fun-0001</fr:display-uri>
+                <fr:route>/cat-fun-0001/</fr:route>
+                <fr:title text="Elements in basic category theory">Elements in basic category theory</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter />
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/sezryo/" title="Yiq-wê Mordžele (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Yiq-wê Mordžele (Yiwei Meng)</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>7</fr:month>
+                  <fr:day>13</fr:day>
+                </fr:date>
+                <fr:uri>https://sez.moe/cat-ana-0001/</fr:uri>
+                <fr:display-uri>cat-ana-0001</fr:display-uri>
+                <fr:route>/cat-ana-0001/</fr:route>
+                <fr:title text="Categorical Functional Analysis">Categorical Functional Analysis</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter />
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://sez.moe/jap-bun-0001/</fr:uri>
+                <fr:display-uri>jap-bun-0001</fr:display-uri>
+                <fr:route>/jap-bun-0001/</fr:route>
+                <fr:title text="中古日語學習筆記">中古日語學習筆記</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter />
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
