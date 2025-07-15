@@ -93,7 +93,7 @@
             <html:p>I am Yiq-wê Mordžele. I am also referred to as Yiwei Meng or Yvette (see <fr:link href="/0007/" title="An account for my name" uri="https://sez.moe/0007/" display-uri="0007" type="local">here</fr:link>). This is my personal website, realised as a <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">forester space</fr:link>. More detailed information of me can be found in my <fr:link href="/sezryo/" title="Yiq-wê Mordžele (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">bio</fr:link>, or directly <fr:link href="/0006/" title="Contact me" uri="https://sez.moe/0006/" display-uri="0006" type="local">contact me</fr:link> for even further discussions.</html:p>
             <html:p>This website primarily serves as a research <fr:link href="/0002/" title="Notes" uri="https://sez.moe/0002/" display-uri="0002" type="local">note</fr:link> of my current studies. Additionally, my random thoughts are also posted here, making part of this website to be a casual blog.</html:p>
             <html:p>Pages of this site may be written in multiple or mixed languages.</html:p>
-            <html:p>You may navigate this whole <fr:link href="%28https://www.forester-notes.org/index/index.xml)" type="external">forester</fr:link> via <html:code>ctrl+K</html:code>.</html:p>
+            <html:p>You may navigate this whole <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">forester</fr:link> via <html:code>ctrl+K</html:code>.</html:p>
             <fr:tree show-metadata="false">
               <fr:frontmatter>
                 <fr:authors />
