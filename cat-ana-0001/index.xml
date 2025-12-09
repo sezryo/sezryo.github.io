@@ -95,57 +95,7 @@
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors />
-            <fr:uri>https://sez.moe/sezryo/</fr:uri>
-            <fr:display-uri>sezryo</fr:display-uri>
-            <fr:route>/sezryo/</fr:route>
-            <fr:title text="Yiq-wê Mordžele (Yiwei Meng)">Yiq-wê Mordžele (Yiwei Meng)</fr:title>
-            <fr:taxon>Person</fr:taxon>
-            <fr:meta name="external">https://sez.moe/</fr:meta>
-            <fr:meta name="institution">Imperial College London</fr:meta>
-            <fr:meta name="orcid">0009-0008-0934-6821</fr:meta>
-            <fr:meta name="position">they/them</fr:meta>
-          </fr:frontmatter>
-          <fr:mainmatter>
-            <html:p>I'm a <html:em>postgrauduate student studying Mathematics and Finance</html:em> in Imperial College. I'm a <html:em>Quantitative Research Intern</html:em> in J.P. Morgan. I'm also an <html:em>alumni</html:em> of <fr:link href="/thoughts-emo-0001/" title="What Cambridge gave me..." uri="https://sez.moe/thoughts-emo-0001/" display-uri="thoughts-emo-0001" type="local">University of Cambridge</fr:link> as a <html:em><fr:link href="https://archive.thetab.com/uk/cambridge/2017/02/16/what-actually-date-mathmo-89152" type="external">Mathmo</fr:link></html:em> from 2022 to 2025.</html:p>
-            <html:p>My primary research interest focuses on stochastic analysis and its applications. In particular, I'm working on geometric aspects of stochastic differential equations defined on Banach-valued r.v.s., in which financial implications arise.</html:p>
-            <html:p>I'm also interested in formalising functional analytical concepts in lens of category theory, this attempt can be found in my <fr:link href="/cat-ana-0001/" title="Categorical Functional Analysis" uri="https://sez.moe/cat-ana-0001/" display-uri="cat-ana-0001" type="local">note</fr:link> here.</html:p>
-            <html:p>I was supervised by <fr:link href="https://www.dpmms.cam.ac.uk/~sjw47/" type="external">Simon Wadsley</fr:link>, <fr:link href="https://www.homerton.cam.ac.uk/people/anthony-ashton" type="external">Anthony Ashton</fr:link> and <fr:link href="https://www.dpmms.cam.ac.uk/person/jmeh1" type="external">Martin Hyland</fr:link>, and worked on researches generalising semantical correspondences of commutative submonads in ambient categories.</html:p>
-            <html:p>Less professionally, I'm a linguistic enthusiast, and you may find my fragmental thoughts here.</html:p>
-            <html:p>I'm a member of <fr:link href="https://www.libdems.org.uk/" type="external">UK Liberal Democrats</fr:link></html:p>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors />
-                <fr:uri>https://sez.moe/0006/</fr:uri>
-                <fr:display-uri>0006</fr:display-uri>
-                <fr:route>/0006/</fr:route>
-                <fr:title text="Contact me">Contact me</fr:title>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>You may access my <fr:link href="/0005/" title="Curriculum Vitæ" uri="https://sez.moe/0005/" display-uri="0005" type="local">Curriculum Vitæ</fr:link> here. My professional email is <html:code>ym2825@ic.ac.uk</html:code>. For contacts otherwise, please send email to <html:code>echo golf oscar at *this domain*</html:code>.</html:p>
-                <html:p>Additionally, I maintain multiple social platform accounts under the same name as the <fr:link href="https://www.forester-notes.org/0073/index.xml" type="external">tree address</fr:link> of this page.</html:p>
-                <html:p>You may wish to access my personal Telegram channel via <fr:link href="https://t.me/pre_yoyogi" type="external">this link</fr:link></html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors />
-                <fr:uri>https://sez.moe/0007/</fr:uri>
-                <fr:display-uri>0007</fr:display-uri>
-                <fr:route>/0007/</fr:route>
-                <fr:title text="An account for my name">An account for my name</fr:title>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>My name Yiq-wê Mordžele represents its first name in Shanghainese (上海閒話), with <fr:link href="https://shorturl.at/CFzWW" type="external">this</fr:link> romanisation, while the last name in Manchurian (ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ). The combination marks my blended ethnicity. You may find me using name Yiwei Meng in many (most?) occasions, as my Mandarin-ised name.</html:p>
-                <html:p>I also used names Yvette and Yves a lot when I was in Cambridge.</html:p>
-              </fr:mainmatter>
-            </fr:tree>
-          </fr:mainmatter>
-        </fr:tree>
-      </fr:mainmatter>
+      <fr:mainmatter />
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
