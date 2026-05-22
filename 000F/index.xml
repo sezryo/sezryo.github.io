@@ -2,11 +2,15 @@
 <?xml-stylesheet type="text/xsl" href="/default.xsl"?>
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
-    <fr:authors />
-    <fr:uri>https://sez.moe/0004/</fr:uri>
-    <fr:display-uri>0004</fr:display-uri>
-    <fr:route>/0004/</fr:route>
-    <fr:title text="Thoughts">Thoughts</fr:title>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/sezryo/" title="Yve Meng" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Yve Meng</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:uri>https://sez.moe/000F/</fr:uri>
+    <fr:display-uri>000F</fr:display-uri>
+    <fr:route>/000F/</fr:route>
+    <fr:title text="Weeknotes">Weeknotes</fr:title>
   </fr:frontmatter>
   <fr:mainmatter />
   <fr:backmatter>
@@ -29,7 +33,20 @@
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://sez.moe/0003/</fr:uri>
+            <fr:display-uri>0003</fr:display-uri>
+            <fr:route>/0003/</fr:route>
+            <fr:title text="Blog">Blog</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>This is my personal blog. I also publish <fr:link href="/000F/" title="Weeknotes" uri="https://sez.moe/000F/" display-uri="000F" type="local">weekly notes</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
