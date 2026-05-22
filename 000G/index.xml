@@ -2,11 +2,15 @@
 <?xml-stylesheet type="text/xsl" href="/default.xsl"?>
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
   <fr:frontmatter>
-    <fr:authors />
-    <fr:uri>https://sez.moe/000C/</fr:uri>
-    <fr:display-uri>000C</fr:display-uri>
-    <fr:route>/000C/</fr:route>
-    <fr:title text="Notes on Markov Categories">Notes on Markov Categories</fr:title>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/sezryo/" title="Yve Meng" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Yve Meng</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:uri>https://sez.moe/000G/</fr:uri>
+    <fr:display-uri>000G</fr:display-uri>
+    <fr:route>/000G/</fr:route>
+    <fr:title text="Rosetta Stone of Categorical Semantics and Game Semantics">Rosetta Stone of Categorical Semantics and Game Semantics</fr:title>
   </fr:frontmatter>
   <fr:mainmatter />
   <fr:backmatter>
@@ -50,21 +54,7 @@
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter>
-        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-          <fr:frontmatter>
-            <fr:authors />
-            <fr:uri>https://sez.moe/0009/</fr:uri>
-            <fr:display-uri>0009</fr:display-uri>
-            <fr:route>/0009/</fr:route>
-            <fr:title text="Markov Category">Markov Category</fr:title>
-          </fr:frontmatter>
-          <fr:mainmatter>
-            <html:p>Markov category is a framework interpreting probability effects using <html:em>copy-discard categories</html:em>. Intuitively, a Markov category is a category where morphisms behave like “random functions”. This novel approach enables one to reason stocastic processes via string diagrams, similar to a relatively mature diagrammic intepretation on <fr:link href="/000D/" title="Quantum Processes" uri="https://sez.moe/000D/" display-uri="000D" type="local">quantum processes</fr:link>. A short yet clear survey can be found <fr:link href="https://ncatlab.org/nlab/show/Markov+category" type="external">here</fr:link>.</html:p>
-            <html:p>I have written a set of note on Markov categories, which can be found <fr:link href="/000C/" title="Notes on Markov Categories" uri="https://sez.moe/000C/" display-uri="000C" type="local">here</fr:link>.</html:p>
-          </fr:mainmatter>
-        </fr:tree>
-      </fr:mainmatter>
+      <fr:mainmatter />
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

@@ -42,8 +42,8 @@
                 <fr:title text="Markov Category">Markov Category</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>Markov category is a framework interpreting probability effects using <html:em>copy-discard categories</html:em>. Intuitively, a Markov category is a category where morphisms behave like “random functions”. This novel approach enables one to reason stocastic processes via string diagrams, similar to a relatively mature diagrammic intepretation on <fr:link href="/000C/" title="Notes on Markov Categories" uri="https://sez.moe/000C/" display-uri="000C" type="local">quantum processes</fr:link>. A short yet clear survey can be found <fr:link href="https://ncatlab.org/nlab/show/Markov+category" type="external">here</fr:link>.</html:p>
-                <html:p>I have written a set of note on Markov categories, which can be found <fr:link href="/000D/" title="Quantum Processes" uri="https://sez.moe/000D/" display-uri="000D" type="local">here</fr:link>.</html:p>
+                <html:p>Markov category is a framework interpreting probability effects using <html:em>copy-discard categories</html:em>. Intuitively, a Markov category is a category where morphisms behave like “random functions”. This novel approach enables one to reason stocastic processes via string diagrams, similar to a relatively mature diagrammic intepretation on <fr:link href="/000D/" title="Quantum Processes" uri="https://sez.moe/000D/" display-uri="000D" type="local">quantum processes</fr:link>. A short yet clear survey can be found <fr:link href="https://ncatlab.org/nlab/show/Markov+category" type="external">here</fr:link>.</html:p>
+                <html:p>I have written a set of note on Markov categories, which can be found <fr:link href="/000C/" title="Notes on Markov Categories" uri="https://sez.moe/000C/" display-uri="000C" type="local">here</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
