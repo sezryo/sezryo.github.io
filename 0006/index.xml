@@ -33,7 +33,7 @@
             <fr:uri>https://sez.moe/sezryo/</fr:uri>
             <fr:display-uri>sezryo</fr:display-uri>
             <fr:route>/sezryo/</fr:route>
-            <fr:title text="Yiq-wê Mordžele (Yiwei Meng)">Yiq-wê Mordžele (Yiwei Meng)</fr:title>
+            <fr:title text="Yve Meng">Yve Meng</fr:title>
             <fr:taxon>Person</fr:taxon>
             <fr:meta name="external">https://sez.moe/</fr:meta>
             <fr:meta name="institution">Imperial College London</fr:meta>
@@ -42,10 +42,10 @@
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>I am a <html:em>Quantitative Researcher</html:em> in <fr:link href="https://www.mediobanca.com/en/index.html" type="external">Mediobanca</fr:link> in London. I am also a <html:em>Research Assistant</html:em> in <fr:link href="https://thalesians.com/" type="external">Thalesians</fr:link>, supervised under <fr:link href="https://profiles.imperial.ac.uk/paul.bilokon01" type="external">Dr. Paul Bilokon</fr:link>. I am an alumni of <html:em>MSc Mathematics and Finance</html:em> in Imperial College. I am also an <html:em>alumni</html:em> of <fr:link href="/thoughts-emo-0001/" title="What Cambridge gave me..." uri="https://sez.moe/thoughts-emo-0001/" display-uri="thoughts-emo-0001" type="local">University of Cambridge</fr:link> as a <html:em><fr:link href="https://archive.thetab.com/uk/cambridge/2017/02/16/what-actually-date-mathmo-89152" type="external">Mathmo</fr:link></html:em><html:em>(BA Mathematics Tripos)</html:em>.</html:p>
-            <html:p>My primary research interest focuses on algebraic aspects in stochastic analysis. You may find more information on the <fr:link href="/0008/" title="Research" uri="https://sez.moe/0008/" display-uri="0008" type="local">research</fr:link> page. Currently, I focus on formalising market dynamics using a game-theoretical framework, and furthermore, under a game semantical interpretation. I focus on diagrammic implementations of stochastic and quantum processes, via Markov categories. Another topic I'm studying is Hopf algebra methods in branched rough paths, trying to use signature method in formalising continuous processes theories in categories.</html:p>
-            <html:p>I was supervised by <fr:link href="https://www.dpmms.cam.ac.uk/~sjw47/" type="external">Prof. Simon Wadsley</fr:link>, <fr:link href="https://www.homerton.cam.ac.uk/people/anthony-ashton" type="external">Prof. Anthony Ashton</fr:link> and <fr:link href="https://www.dpmms.cam.ac.uk/person/jmeh1" type="external">Prof. Martin Hyland</fr:link>, and worked on researches generalising semantical correspondences of commutative submonads in ambient categories. I'm currently supervised by <fr:link href="https://profiles.imperial.ac.uk/thomas.cass" type="external">Thomas Cass</fr:link>, who provides me insights in Rough Path Theory.</html:p>
-            <html:p>Less professionally, I'm a linguistic enthusiast, and you may find my fragmental thoughts here.</html:p>
-            <html:p>I'm a member of <fr:link href="https://www.libdems.org.uk/" type="external">UK Liberal Democrats</fr:link></html:p>
+            <html:p>My primary research interest focuses on algebraic aspects in stochastic analysis. You may find more information on the <fr:link href="/0008/" title="Research" uri="https://sez.moe/0008/" display-uri="0008" type="local">research</fr:link> page. Currently, I am working on a paper formalising market dynamics using a game-theoretical framework, and furthermore, under a game semantical interpretation.</html:p>
+            <html:p>Previously in Imperial, I was supervised by <fr:link href="https://profiles.imperial.ac.uk/thomas.cass" type="external">Prof. Thomas Cass</fr:link>, who provides me insights in Rough Path. When I was In Cambridge, I was supervised by <fr:link href="https://www.dpmms.cam.ac.uk/~sjw47/" type="external">Prof. Simon Wadsley</fr:link>, <fr:link href="https://www.homerton.cam.ac.uk/people/anthony-ashton" type="external">Prof. Anthony Ashton</fr:link> and <fr:link href="https://www.dpmms.cam.ac.uk/person/jmeh1" type="external">Prof. Martin Hyland</fr:link>, and worked on researches generalising semantical correspondences of commutative submonads in ambient categories.</html:p>
+            <html:p>Less professionally, I am a linguistic enthusiast, and you may find my fragmental thoughts here.</html:p>
+            <html:p>I am a member of <fr:link href="https://www.libdems.org.uk/" type="external">UK Liberal Democrats</fr:link></html:p>
             <fr:tree show-metadata="false">
               <fr:frontmatter>
                 <fr:authors />
@@ -69,8 +69,7 @@
                 <fr:title text="An account for my name">An account for my name</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>My name Yiq-wê Mordžele represents its first name in Shanghainese (上海閒話), with <fr:link href="https://shorturl.at/CFzWW" type="external">this</fr:link> romanisation, while the last name in Manchurian (ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ). The combination marks my blended ethnicity. You may find me using name Yiwei Meng in many (most?) occasions, as my Mandarin-ised name.</html:p>
-                <html:p>I also used names Yvette and Yves a lot when I was in Cambridge.</html:p>
+                <html:p>My preferred name Yve (pronounced i-veh) is a transliteration of my Shanghainese first name Yiq-wê. My first name can also be written in Mandarin as Yiwei, or written in different <html:em>gender inflections</html:em> as Yvette or Yves. These names are all used under different occasions.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
@@ -87,7 +86,7 @@
           <fr:frontmatter>
             <fr:authors>
               <fr:author>
-                <fr:link href="/sezryo/" title="Yiq-wê Mordžele (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Yiq-wê Mordžele (Yiwei Meng)</fr:link>
+                <fr:link href="/sezryo/" title="Yve Meng" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">Yve Meng</fr:link>
               </fr:author>
             </fr:authors>
             <fr:uri>https://sez.moe/index/</fr:uri>
@@ -97,7 +96,7 @@
             <fr:meta name="orcid">0009-0008-0934-6821</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I am Yiq-wê Mordžele. I am also referred to as Yiwei Meng or Yvette (see <fr:link href="/0007/" title="An account for my name" uri="https://sez.moe/0007/" display-uri="0007" type="local">here</fr:link>). This is my personal website, realised as a <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">forester space</fr:link>. More detailed information of me can be found in my <fr:link href="/sezryo/" title="Yiq-wê Mordžele (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">bio</fr:link>, or directly <fr:link href="/0006/" title="Contact me" uri="https://sez.moe/0006/" display-uri="0006" type="local">contact me</fr:link> for even further discussions.</html:p>
+            <html:p>I am Yve Meng. This is my personal website, realised as a <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">forester space</fr:link>. You can find more information about me in my <fr:link href="/sezryo/" title="Yve Meng" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">bio</fr:link>, or directly <fr:link href="/0006/" title="Contact me" uri="https://sez.moe/0006/" display-uri="0006" type="local">contact me</fr:link> for even further discussions.</html:p>
             <html:p>This website primarily serves as a research <fr:link href="/0002/" title="Notes" uri="https://sez.moe/0002/" display-uri="0002" type="local">note</fr:link> of my current studies. Additionally, my random thoughts are also posted here, making part of this website to be a casual blog.</html:p>
             <html:p>Pages of this site may be written in multiple or mixed languages.</html:p>
             <html:p>You may navigate this whole <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">forester</fr:link> via <html:code>ctrl+K</html:code>.</html:p>
@@ -113,7 +112,7 @@
                 <html:p>The name ヨよ木 comes as a homonym of 代々木, a vibrant area in Tokyo. ヨ mimics the existence quantifier, よ is identified as the Yoneda functor, and 木 marks a place for inhabitance.</html:p>
               </fr:mainmatter>
             </fr:tree>
-            <html:p>You may find contents in the following <fr:link href="https://www.forester-notes.org/tfmt-000R/index.xml" type="external">trees</fr:link>: <fr:link href="/0002/" title="Notes" uri="https://sez.moe/0002/" display-uri="0002" type="local">notes</fr:link>, <fr:link href="/0003/" title="Articles" uri="https://sez.moe/0003/" display-uri="0003" type="local">articles</fr:link>, <fr:link href="/0004/" title="Thoughts" uri="https://sez.moe/0004/" display-uri="0004" type="local">thoughts</fr:link>, and my <fr:link href="/sezryo/" title="Yiq-wê Mordžele (Yiwei Meng)" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">bio</fr:link>.</html:p>
+            <html:p>You may find contents in the following <fr:link href="https://www.forester-notes.org/tfmt-000R/index.xml" type="external">trees</fr:link>: <fr:link href="/0002/" title="Notes" uri="https://sez.moe/0002/" display-uri="0002" type="local">notes</fr:link>, <fr:link href="/0003/" title="Articles" uri="https://sez.moe/0003/" display-uri="0003" type="local">articles</fr:link>, <fr:link href="/0004/" title="Thoughts" uri="https://sez.moe/0004/" display-uri="0004" type="local">thoughts</fr:link>, and my <fr:link href="/sezryo/" title="Yve Meng" uri="https://sez.moe/sezryo/" display-uri="sezryo" type="local">bio</fr:link>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
